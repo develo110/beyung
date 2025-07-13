@@ -7,10 +7,10 @@ function Footer() {
             <div className='md:w-[30%] w-[35%] h-[100%] flex items-start justify-center flex-col gap-[5px]  '>
                 <div className='flex items-start justify-start gap-[5px] mt-[10px] md:mt-[40px]'>
                     <img src={logo} alt=""  className='md:w-[40px] md:h-[40px] w-[30px] h-[30px]'/>
-                    <p className='text-[19px] md:text-[20px] text-[black] '>OneCart</p>
+                    <p className='text-[19px] md:text-[20px] text-[black] '>BEYUNG</p>
             
                 </div>
-                <p className='text-[15px] text-[#1e2223] hidden md:block'>OneCart is your all-in-one online shopping destination, offering top-quality products, unbeatable deals, and fast delivery—all backed by trusted service designed to make your life easier every day.</p>
+                <p className='text-[15px] text-[#1e2223] hidden md:block'>Beyung is your all-in-one online shopping destination, offering top-quality products, unbeatable deals, and fast delivery—all backed by trusted service designed to make your life easier every day.</p>
                     <p className='text-[15px] text-[#1e2223] flex md:hidden'>Fast. Easy. Reliable. OneCart Shopping</p>
 
                 
@@ -34,10 +34,10 @@ function Footer() {
 
                     </div>
                      <ul>
-                         <li className='text-[15px] text-[#1e2223] '>+91-9876543210</li>
-                        <li className='text-[15px] text-[#1e2223] '>contact@onecart.com</li>
+                         <li className='text-[15px] text-[#1e2223] '>+91-7099266559</li>
+                        <li className='text-[15px] text-[#1e2223] '>beyungbusiness@gmail.com</li>
                         <li className='text-[15px] text-[#1e2223] hidden md:block'>+1-123-456-7890</li>
-                        <li className='text-[15px] text-[#1e2223] hidden md:block'>admin@onecart.com</li>
+                        <li className='text-[15px] text-[#1e2223] hidden md:block'>developeranis123@gmail.com</li>
                     </ul>
                 </div>
 
